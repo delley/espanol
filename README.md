@@ -1,2 +1,2 @@
-# espanol
-Notas sobre aulas de espanhol
+# Español
+Notas sobre clases de español
