@@ -1,6 +1,6 @@
 # AULA 02
 
-## PEDIR LIÇENÇA
+## PEDIR LICENÇA
 - Perdón
 - Con permiso
 - Por favor
